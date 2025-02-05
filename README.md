@@ -36,7 +36,7 @@
 
 ---
 
-## **📈 GITHUB STATS (DARK BLUE & BLACK)**  
+## **📈 GITHUB STATS **  
 
 ### **🔥 Performance Overview**
 <p align="center">
@@ -48,15 +48,12 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=f58dev&layout=compact&theme=radical&bg_color=000000&title_color=1E40AF&text_color=1E40AF" />
 </p>
 
-### 📊 **Contribution Graph (DARK BLACK & BLUE)**
+### 📊 **Contribution Graph**
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=f58dev&theme=react-dark&bg_color=000000&color=1E40AF&line=1E40AF&point=1E40AF" />
 </p>
 
-### **🔥 Streak Stats**
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=f58dev&theme=radical&background=000000&ring=1E40AF&fire=1E40AF&currStreakLabel=1E40AF" />
-</p>
+
 
 ---
 
